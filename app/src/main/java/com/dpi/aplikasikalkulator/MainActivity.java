@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 
 public class MainActivity extends AppCompatActivity {
+    //deklarasi variable
     EditText input1,input2;
     Button btn_tambah,btn_kurang,btn_kali,btn_bagi,btn_bersihkan;
     TextView text_hasil2;
